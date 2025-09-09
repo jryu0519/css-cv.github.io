@@ -2,7 +2,7 @@
   "name": "css-resume-assignment",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "npx jest --verbose"
   },
   "devDependencies": {
     "cheerio": "^1.1.2",
